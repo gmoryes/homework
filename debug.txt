@@ -1,0 +1,12 @@
+w $path
+w $size
+b 10 $cnt == 1
+a 17 print"out of for\n"
+c
+c
+c
+c
+W $size
+L w
+c
+q
