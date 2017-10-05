@@ -1,2 +1,2 @@
 # homework
-homework for perl
+репозиторий для домашек
